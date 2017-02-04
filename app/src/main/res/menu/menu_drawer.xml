@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/md5_item"
+        android:title="md5"/>
+
+    <item
+        android:id="@+id/base64_item"
+        android:title="base64"/>
+
+    <item
+        android:id="@+id/des_item"
+        android:title="des"/>
+
+    <item
+        android:id="@+id/rsa_item"
+        android:title="rsa"/>
+
+    <item
+        android:id="@+id/sign_item"
+        android:title="sign"/>
+
+</menu>
